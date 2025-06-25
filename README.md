@@ -1,11 +1,5 @@
 # ⚽ Football\_YOLO8
 
-**Transforming Sports Analysis with Intelligent Video Insights**
-
-![Last Commit](https://img.shields.io/github/last-commit/Dinth132/Football_Yolo8?style=flat-square)
-![Jupyter Notebooks](https://img.shields.io/badge/Jupyter-54.4%25-yellow?style=flat-square)
-![Languages](https://img.shields.io/github/languages/count/Dinth132/Football_Yolo8?style=flat-square)
-
 ---
 
 ## 📌 Table of Contents
