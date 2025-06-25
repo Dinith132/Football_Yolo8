@@ -1,5 +1,3 @@
----
-
 # ⚽ Football\_YOLO8
 
 **Transforming Sports Analysis with Intelligent Video Insights**
