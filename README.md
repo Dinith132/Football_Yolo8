@@ -1,5 +1,3 @@
-Here’s a **cleaned-up, professional, and well-structured** version of your `README.md` for the `Football_Yolo8` project. It improves layout, fills in placeholders, uses Markdown standards properly, and gives a polished open-source project vibe.
-
 ---
 
 # ⚽ Football\_YOLO8
@@ -97,13 +95,6 @@ pytest tests/
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-Feel free to fork, contribute, and use with attribution.
-
----
-
 ## 🙌 Acknowledgements
 
 * Ultralytics for YOLOv8
@@ -120,10 +111,3 @@ Feel free to [open issues](https://github.com/Dinth132/Football_Yolo8/issues) or
 
 ---
 
-Let me know if you want:
-
-* a badge for test coverage or build status (CI/CD),
-* Markdown-to-PDF formatting for publication,
-* or conversion to a GitHub Pages documentation site.
-
-Ready to level this up for publishing if you're planning to show it off.
