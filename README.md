@@ -1,6 +1,1 @@
-📥 Download Pre-trained Models
-To run this project, you'll need to download the pre-trained YOLO model weights.
 
-Visit the following link to download the model: YOLOv8 Pre-trained Weights
-Save the downloaded .pt file in the models/ directory of the project. If the folder doesn't exist, create it.
-Ensure the model file path matches the one specified in the code.
